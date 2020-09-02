@@ -16,7 +16,7 @@ public class KafkaStreamingApp implements CommandLineRunner{
 	    }
 	@Override
 	public void run(String... args) throws Exception {
-		stream.createTopology();
+		//stream.createTopology();
 		
 	}
 }
